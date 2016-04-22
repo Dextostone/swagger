@@ -1,0 +1,8 @@
+# SwaggerClient::Role
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **String** |  | 
+
+
